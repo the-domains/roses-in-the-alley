@@ -5,14 +5,18 @@ inNav: false
 inLanguage: null
 keywords: []
 description: Welcome to Roses in the Alley!
-datePublished: '2016-08-03T17:58:24.095Z'
-dateModified: '2016-08-03T17:58:14.937Z'
+datePublished: '2016-08-03T18:16:22.591Z'
+dateModified: '2016-08-03T18:16:22.176Z'
 title: ''
 author: []
 sourcePath: _posts/2016-08-03-welcome-to-roses-in-the-alley.md
 via: {}
 authors: []
-publisher: {}
+publisher:
+  name: null
+  domain: null
+  url: null
+  favicon: null
 starred: false
 url: welcome-to-roses-in-the-alley/index.html
 _type: Article
