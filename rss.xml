@@ -2,13 +2,20 @@
     <channel>
         <title><![CDATA[Roses in the Alley]]></title>
         <description><![CDATA[Roses in the Alley]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/roses-in-the-alley/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 17 Mar 2016 00:43:46 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Wed, 03 Aug 2016 17:49:29 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/roses-in-the-alley/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>Welcome to Roses in the Alley!</p>]]></description>
+            <link>https://thegrid.ai/roses-in-the-alley/welcome-to-roses-in-the-alley/index.html</link>
+            <guid isPermaLink="false">77aea55b-b5a4-49b7-a558-e8d25c15255b</guid>
+            <pubDate>Wed, 03 Aug 2016 17:49:20 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[The Old Wooden Fence, by Bob Metivier]]></title>
-            <description><![CDATA[<article><h1>The Old Wooden Fence, by Bob Metivier</h1><p>The Old Wooden Fence by Bob Metivier, released 04 October 2001 The old wooden fence Beaten and torn through the years By the wind and the sudden storms -all that nature could conspire to bring. Yet it somehow managed to hold firm In its simple purpose To keep the strangers out and the restless in.</p></article>]]></description>
+            <description><![CDATA[<article><h1>The Old Wooden Fence, by Bob Metivier</h1><p>The Old Wooden Fence by Bob Metivier, released 04 October 2001 The old wooden fence Beaten and torn through the years By the wind and the sudden storms -all that nature could conspire to bring. Yet it somehow managed to hold firm In its simple purpose To keep the strangers out and the restless in.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/6621d8f3577a8da9b1ac40d9bb50fbc3c0d7ffd1.jpg"></article>]]></description>
             <link>http://bobmetivier.bandcamp.com/track/the-old-wooden-fence</link>
             <guid isPermaLink="false">1b21804d-ede2-467b-9db1-10bad1ab14c1</guid>
             <pubDate>Thu, 17 Mar 2016 00:43:24 GMT</pubDate>
