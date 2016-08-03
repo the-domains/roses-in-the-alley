@@ -1,11 +1,9 @@
 ---
-author: []
-related: []
-publisher:
-  url: 'http://bandcamp.com'
-  name: BandCamp
-  favicon: 'http://f1.bcbits.com/img/a0539491193_3.jpg'
-  domain: bobmetivier.bandcamp.com
+inFeed: true
+hasPage: false
+inNav: false
+isBasedOnUrl: 'http://bobmetivier.bandcamp.com/track/the-old-wooden-fence'
+inLanguage: en
 keywords:
   - wooden
   - nails
@@ -17,18 +15,28 @@ keywords:
   - long-awaited
   - sleet
   - unfastened
-description: 'The Old Wooden Fence by Bob Metivier, released 04 October 2001 The old wooden fence Beaten and torn through the years By the wind and the sudden storms -all that nature could conspire to bring. Yet it somehow managed to hold firm In its simple purpose To keep the strangers out and the restless in.'
-inLanguage: en
+description: >-
+  The Old Wooden Fence by Bob Metivier, released 04 October 2001 The old wooden
+  fence Beaten and torn through the years By the wind and the sudden storms -all
+  that nature could conspire to bring. Yet it somehow managed to hold firm In
+  its simple purpose To keep the strangers out and the restless in.
+datePublished: '2016-08-03T18:15:48.530Z'
+dateModified: '2016-08-03T18:15:40.194Z'
+author:
+  - name: ''
+    url: ''
+related: []
 app_links: []
-isBasedOnUrl: 'http://bobmetivier.bandcamp.com/track/the-old-wooden-fence'
 title: 'The Old Wooden Fence, by Bob Metivier'
-datePublished: '2016-03-17T00:43:24.888Z'
-dateModified: '2016-03-17T00:42:54.449Z'
 sourcePath: _posts/2016-03-17-the-old-wooden-fence-by-bob-metivier.md
-published: true
-inFeed: true
-hasPage: false
-inNav: false
+authors: []
+publisher:
+  name: BandCamp
+  domain: bobmetivier.bandcamp.com
+  url: 'http://bandcamp.com'
+  favicon: 'http://f1.bcbits.com/img/a0539491193_3.jpg'
+via: {}
+starred: false
 _context: 'http://schema.org'
 _type: MediaObject
 
